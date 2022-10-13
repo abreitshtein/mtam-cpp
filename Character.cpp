@@ -1,6 +1,4 @@
-//
-// Created by aribr on 11/06/2021.
-//
+
 
 #include "Character.h"
 
