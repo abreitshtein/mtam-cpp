@@ -1,2 +1,1 @@
-# atam-cpp
-object-oriented
+# atam-cpp ("Introduction to Systems Programming" - technion)
